@@ -1,1 +1,1 @@
-Task 0, Hello Worl
+Task 0, Hello World
